@@ -1,0 +1,25 @@
+body {
+  background: #D2691E;
+  height: 500px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 48px;
+  margin-top: 150px;
+}
+
+
+.divContainer {
+  display: grid;
+  place-items: center center;
+
+}
+
+ul {
+  margin-top: 50px;
+  line-height: 25px;
+  width: 1000px;
+  font-style: italic;
+  font-size: 20px;
+}
